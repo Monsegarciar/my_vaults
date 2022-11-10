@@ -75,5 +75,14 @@ Phyloflash dependencies:
 
 ## Setting up Refrence Database
 
-In using the Hydra 
+#### Hydra computer
+PhyloFlash is already in installed as a module. In installing the refrence database the QSub Generation Utility on the telework site works best. 
+- Memory = 8
+- Multi-thread = 8
+- Job shell = sh
+Can decide to do less memory and or multi-thread, if so set to 6 for both. 
+
+
+Resrources: [phyloFlash | phyloFlash is a pipeline to rapidly reconstruct the SSU rRNAs and explore the phylogenetic composition of an Illumina (meta)genomic dataset. (hrgv.github.io)](http://hrgv.github.io/phyloFlash/)
+
 
